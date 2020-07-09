@@ -1,4 +1,4 @@
-### Hi there 👋
+![cute](cute.gif)
 
 <!--
 **Tree-Some/Tree-Some** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
